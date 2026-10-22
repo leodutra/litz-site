@@ -1,0 +1,5 @@
+# Every crawler is welcome for now: search engines, AI crawlers, link previews.
+User-agent: *
+Allow: /
+
+Sitemap: https://litzodontologia.com.br/sitemap.xml
